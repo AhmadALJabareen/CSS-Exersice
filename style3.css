@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    line-height: 1.6;
+    margin: 25px;
+}
+h1{
+    text-decoration: underline;
+}
+
+strong {
+    color: blue;
+    font-weight: 200;
+}
+
+a {
+    color: red;
+}
+
+span {
+    background-color: yellow;
+}
+
+ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+
+
+
+
